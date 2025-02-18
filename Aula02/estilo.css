@@ -1,0 +1,20 @@
+p{
+    color: blue;
+    font-size: 10pt;
+}
+
+#p1{
+    color: green;
+}
+
+.tag_amarela{
+    color: yellow;
+}
+
+div p{
+    color: red;
+
+}
+div :hover{
+    background-color: yellow;
+}
