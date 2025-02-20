@@ -7,24 +7,28 @@ div{
 }
 
 #p1{
-    margin-left: 400pt;
+    margin-left: 475pt;
 }
 #p2{
     margin-left: 250pt;
 }
 #p3{
-    margin-left: 1000pt;
+    margin-left: 975pt;
 }
 #p4{
-    margin-left: 600pt;
+    margin-left: 515pt;
 }
 #p5{
-    margin-left: 200pt;
-}
+    margin-left: 45pt;
+ }
 #p6{
-    margin-left: 500;
+    margin-left: 545pt;
+}
+#p7{
+    margin-left: 600;
 }
 
+
 body{
-    background-color: lightblue;
+    background-color: rgb(136, 165, 189);
 }
