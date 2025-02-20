@@ -1,0 +1,30 @@
+p{
+    font-size: 20pt;
+}
+div{
+    margin-left: 575pt;
+    margin-right: 500pt;
+}
+
+#p1{
+    margin-left: 400pt;
+}
+#p2{
+    margin-left: 250pt;
+}
+#p3{
+    margin-left: 1000pt;
+}
+#p4{
+    margin-left: 600pt;
+}
+#p5{
+    margin-left: 200pt;
+}
+#p6{
+    margin-left: 500;
+}
+
+body{
+    background-color: lightblue;
+}
