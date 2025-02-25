@@ -27,8 +27,9 @@ div{
 #p7{
     margin-left: 600;
 }
-
-
 body{
     background-color: rgb(136, 165, 189);
+}
+.p6:hover{
+    color: rgba(197, 33, 33, 0.747);
 }
