@@ -1,0 +1,29 @@
+.margins{
+    margin-left: 635pt;
+    margin-top: 50pt;
+    margin-bottom: 100pt;
+}
+#p1{
+    margin-left: 650pt;
+}
+body{
+    background-color: lightgray;
+}
+.display_block{
+    display: block;}
+.display_inline{
+    display: inline;}
+p{
+    font-size: 20pt;
+}
+.solid{border-style: solid;}
+.margin{
+    margin-left: 140pt;
+}
+h3{
+    font-size: 25pt;
+    margin-left: 650;
+}
+h2{
+    font-size: 25pt;
+}
