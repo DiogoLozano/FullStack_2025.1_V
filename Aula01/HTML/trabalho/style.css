@@ -13,7 +13,7 @@
     color:#d9d9e3;
 }
 .font{
-    font-family: sans-serif;;
+    font-family: "sans-serif";
 }
 h1 {
     color: darkgreen;
@@ -25,6 +25,7 @@ h1 {
 h2{
     margin-left: 43%;
     font-size: 24px;
+    font-family: "sans-serif";
 }
 
 #p1{
@@ -45,11 +46,9 @@ h2{
 
 p {
     color: indigo;
-    font-family: sans-serif;
+    font-family: "sans-serif";
 }
-.color{
-    color: darkred;
-}
+
 
 body {
     font-family: Sans-Serif;
@@ -88,22 +87,21 @@ nav {
 .table-container {
     display: flex;
     justify-content: center;
-    
+    margin: auto;
 }
 table {
     border-collapse: collapse;
     width: 50%;
-    
+    border: 3px dashed red;
 }
 th, td {
     text-align: left;
     border: 2px solid red;
-    padding: 10px;
+    padding: 15px;
     
 }
 .border{
     border: 2px dashed red;
-    width: 50%;
     
 }
 th {
@@ -117,18 +115,14 @@ th {
     padding: 15px;
     margin: 20px auto;
     text-align: left;
-    width: 25%;
+    width: 250pt;
     border-radius: 5px;
-}
-text{
-    font-family: "Comic Sans MS";
-    font-size: 15pt;
-    color: black;
 }
 
 .tabela{
-    width: 50%;
-    margin-left: 465px;
+    width: 243px;
+    margin: auto;
+    
 }
 .pedal {
     margin: 0;
