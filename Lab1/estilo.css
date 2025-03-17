@@ -23,4 +23,7 @@ body{
 .solid{border-style: solid;}
 .shadow_1{box-shadow: 10px 10px rgba(155, 149, 149, 0.548);}
 .solid{border-style: solid;}
+.color{
+    color:purple
+}
 
