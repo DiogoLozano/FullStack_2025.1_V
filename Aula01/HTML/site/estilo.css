@@ -1,0 +1,45 @@
+p{
+    font-size: 20pt;
+}
+div{
+    margin-left: 575pt;
+    margin-right: 500pt;
+}
+#p1{
+    margin-left: 475pt;
+}
+#p2{
+    margin-left: 250pt;
+}
+
+.alinhar{
+    align-items: center;
+    margin-left: 50pt;
+    flex-direction: row-reverse;
+}
+.inline{
+    display: inline;
+    justify-content: space-between;
+}
+
+.margin_200{
+    margin-left: 74pt;
+}
+body{
+    background-color: rgb(136, 165, 189);
+}
+.p6:hover{
+    color: rgba(197, 33, 33, 0.747);
+}
+.solid{
+    border-style: solid;
+}
+.shadow_1{
+    box-shadow: 10px 10px rgba(155, 149, 149, 0.548);
+}
+.solid{
+    border-style: solid;
+}
+.color{
+    color:purple
+}
