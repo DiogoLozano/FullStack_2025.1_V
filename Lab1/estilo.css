@@ -20,10 +20,12 @@ body{
     background-color: rgb(136, 165, 189);}
 .p6:hover{
     color: rgba(197, 33, 33, 0.747);}
-.solid{border-style: solid;}
-.shadow_1{box-shadow: 10px 10px rgba(155, 149, 149, 0.548);}
-.solid{border-style: solid;}
+
 .color{
     color:purple
 }
+table, th, td {
+    border: 1px solid black;
+    
 
+}

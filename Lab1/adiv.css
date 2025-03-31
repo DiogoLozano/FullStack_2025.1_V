@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(133, 96, 168);
+    font-size: larger;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
