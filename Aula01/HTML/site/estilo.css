@@ -6,10 +6,10 @@ div{
     margin-right: 500pt;
 }
 #p1{
-    margin-left: 475pt;
+    margin-left: 500pt;
 }
 #p2{
-    margin-left: 250pt;
+    margin-left: 300pt;
 }
 
 .alinhar{
@@ -21,10 +21,6 @@ div{
     display: inline;
     justify-content: space-between;
 }
-
-.margin_200{
-    margin-left: 74pt;
-}
 body{
     background-color: rgb(136, 165, 189);
 }
@@ -34,12 +30,7 @@ body{
 .solid{
     border-style: solid;
 }
-.shadow_1{
-    box-shadow: 10px 10px rgba(155, 149, 149, 0.548);
-}
-.solid{
-    border-style: solid;
-}
-.color{
-    color:purple
+
+table, th, td {
+    border: 1px solid black;
 }
