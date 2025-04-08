@@ -1,0 +1,17 @@
+#canvas{
+    background-color: rgb(234, 104, 252);
+    border-style: solid 2px;
+    border-color: darkblue;
+}
+.flex_container{
+    display: flex;
+    justify-content: flex;
+}
+.flex_container div{
+    display: flex;
+    justify-items: flex;
+    align-items: center;
+}
+.adasdas{
+    color: aqua;
+}
