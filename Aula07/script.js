@@ -33,3 +33,13 @@ ctx.fill();
 ctx.stroke();
 ctx.closePath();
 
+// texto
+ctx.beginPath();
+ctx.lineWidth = 5;
+ctx.line
+ctx.
+ctx.
+ctx.
+ctx.
+ctx.
+ctx.
