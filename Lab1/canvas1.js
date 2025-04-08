@@ -1,6 +1,11 @@
 let canvas1 = document.getElementById("canvas1")
  let ctx1 = canvas1.getContext("2d")
  
+ function escrever(){
+ ctx1.font = "20px Arial";
+ ctx1.fillText("canvas",120,40);
+ }
+ escrever()
  function quadrado(cor, medidas){
      const [x, y, largura, altura] = medidas
    ctx1.beginPath();
