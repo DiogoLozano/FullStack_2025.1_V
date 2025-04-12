@@ -1,17 +1,18 @@
-#canvas{
-    background-color: rgb(234, 104, 252);
+#canvas1{
+    background-color: rgb(245, 245, 245);
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}
+#canvas2{
+    background-color: rgb(245, 245, 245);
     border-style: solid 2px;
-    border-color: darkblue;
+    display: block;
+    margin: auto;
 }
-.flex_container{
+#center{
     display: flex;
-    justify-content: flex;
-}
-.flex_container div{
-    display: flex;
-    justify-items: flex;
-    align-items: center;
-}
-.adasdas{
-    color: aqua;
+    justify-self: center;
+    align-self: center;
+    flex-direction: column;
 }
