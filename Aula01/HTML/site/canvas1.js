@@ -42,7 +42,7 @@ function Circulos(cor, x, y, z, w, pi) {
     ctx1.beginPath();
     ctx1.arc(x, y, z, w, Math.PI * pi);
     ctx1.stroke();
-  });
+    });
     
   ctx1.strokeStyle = 'green';
   [30, 50, 70].forEach(r => {
@@ -50,26 +50,26 @@ function Circulos(cor, x, y, z, w, pi) {
     ctx1.arc(150, 150, 70, 99.8, Math.PI * 2);
     ctx1.stroke();
   });
-  
+
   ctx1.strokeStyle = 'green';
     [30, 50, 70].forEach(r => {
       ctx1.beginPath();
       ctx1.arc(150, 150, 100, 15.7, Math.PI * 2);
       ctx1.stroke();
-    });
+  });
 
     ctx1.strokeStyle = 'green';
     [30, 50, 70].forEach(r => {
       ctx1.beginPath();
       ctx1.arc(150, 300, 60, 99,Math.PI * 2);
       ctx1.stroke();
-    });
+  });
     ctx1.strokeStyle = 'green';
     [30, 50, 70].forEach(r => {
-      ctx.beginPath();
+    ctx.beginPath();
       ctx.arc(150, 150, 100, 15.7, Math.PI * 2);
-      ctx.stroke();
-    });
+    ctx.stroke();
+  });
     ctx1.strokeStyle = 'green';
     [30, 50, 70].forEach(r => {
       ctx1.beginPath();
@@ -81,7 +81,7 @@ function Circulos(cor, x, y, z, w, pi) {
       ctx1.beginPath();
       ctx1.arc(150, 300, 90, 0, Math.PI * 1.5);
       ctx1.stroke();
-    });  
+  });
     ctx1.fillStyle = 'cyan';
     ctx1.beginPath();
     ctx1.arc(150, 90, 15, 0, Math.PI * 2);
@@ -93,12 +93,12 @@ function Circulos(cor, x, y, z, w, pi) {
     ctx1.arc(90, 210, 15, 0, Math.PI * 2);
     ctx1.fill();
     ctx1.stroke() ;
-  
+
     ctx1.beginPath();
     ctx1.arc(210, 210, 15, 0, Math.PI * 2);
     ctx1.fill();
     ctx1.stroke();
-    
+
     ctx1.fillStyle = 'cyan';
     ctx1.beginPath();
     ctx1.arc(150, 300, 30, 0, Math.PI, true); 

@@ -1,13 +1,7 @@
 p{
     font-size: 20pt;
 }
-div{
-    margin-left: 575pt;
-    margin-right: 500pt;
-}
-#p1{
-    margin-left: 500pt;
-}
+
 #p2{
     margin-left: 300pt;
 }
@@ -23,6 +17,10 @@ div{
 }
 body{
     background-color: rgb(136, 165, 189);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 .p6:hover{
     color: rgba(197, 33, 33, 0.747);
