@@ -1,0 +1,21 @@
+#canvas1{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}
+#canvas2{
+    background-color: rgb(245, 245, 245);
+    border-style: solid 2px;
+    display: block;
+    margin: auto;
+}
+#center{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    flex-direction: column;
+}
+body {
+    background-color:rgb(136, 165, 189);
+}
